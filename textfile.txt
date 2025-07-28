@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "this is feature file"
+=======
+"hiiiii"
+>>>>>>> main
